@@ -1,7 +1,7 @@
-To save the file use below command in git hub
 
 git add .
 
-git commit -m "save file"
+git commit -m ""
 
 git push
+
